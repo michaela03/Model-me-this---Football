@@ -1,0 +1,15 @@
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\bin\Debug\net7.0\Football.exe
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\bin\Debug\net7.0\Football.deps.json
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\bin\Debug\net7.0\Football.runtimeconfig.json
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\bin\Debug\net7.0\Football.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\bin\Debug\net7.0\Football.pdb
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.csproj.AssemblyReference.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.AssemblyInfoInputs.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.AssemblyInfo.cs
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.csproj.CoreCompileInputs.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\refint\Football.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.pdb
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\Football.genruntimeconfig.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\OOP_C#\Football\obj\Debug\net7.0\ref\Football.dll
