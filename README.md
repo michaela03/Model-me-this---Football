@@ -42,7 +42,7 @@ The Football Management System was created with the help of the following resour
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email-address].
+For any inquiries or feedback, please contact me.
 
 ⚽ Happy football management! ⚽
 
